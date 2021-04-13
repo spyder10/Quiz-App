@@ -9,4 +9,4 @@ Flutter is Google’s UI toolkit for building beautiful, natively compiled appli
 It is deleveloped using **Dart**
 
 **App**
-This repository contains implementation of Quiz App. Few True-False questions are pulled out from a question-bank to the user/player. The player has to answer those questions in order to earn maximum points. The total points earned by the player will be reflected by an Alert at the end of the quiz. 
+This repository contains implementation of Quiz App. Few True-False questions are pulled out from a question-bank to the user. The player has to answer those questions in order to earn maximum points. The total points earned by the player will be reflected by an Alert at the end of the quiz. 
